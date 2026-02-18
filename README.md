@@ -9,15 +9,16 @@
 
 **Sistema completo de gerenciamento de tarefas com dashboard interativo, gráficos de produtividade, autenticação e CRUD completo.**
 
-[🚀 Demo ao Vivo](#) · [📖 Documentação](#funcionalidades) · [🐛 Reportar Bug](../../issues)
+[🚀 Demo ao Vivo]() · [📖 Documentação](#funcionalidades) · [🐛 Reportar Bug](../../issues)
 
 </div>
 
 ---
 
 ## 📸 Screenshots
+<img width="1869" height="946" alt="Screenshot 2026-02-18 at 13-02-17 TaskFlow - Gerenciamento de Tarefas" src="https://github.com/user-attachments/assets/5f11600f-a2df-4b7b-a4b2-5a3c4e629755" />
+<img width="1869" height="946" alt="Screenshot 2026-02-18 at 13-02-02 TaskFlow - Gerenciamento de Tarefas" src="https://github.com/user-attachments/assets/a304e09c-0567-4afd-b641-dc8104e7f6cf" />
 
-> *Adicione screenshots da aplicação aqui após rodar o projeto localmente*
 
 ## ✨ Funcionalidades
 
@@ -56,7 +57,7 @@
 
 ```bash
 # Clone o repositório
-git clone https://github.com/SEU_USUARIO/taskflow.git
+git clone https://github.com/joaosousa51/taskflow.git
 
 # Entre na pasta do projeto
 cd taskflow
@@ -134,7 +135,7 @@ taskflow/
 - [ ] Autenticação JWT
 - [ ] Notificações em tempo real com WebSocket
 - [ ] Testes unitários com Jest e React Testing Library
-- [ ] Deploy na Vercel
+- ✅ Deploy na Vercel
 
 ## 🤝 Contribuindo
 
