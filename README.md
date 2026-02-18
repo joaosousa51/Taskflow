@@ -9,15 +9,16 @@
 
 **Sistema completo de gerenciamento de tarefas com dashboard interativo, gráficos de produtividade, autenticação e CRUD completo.**
 
-[🚀 Demo ao Vivo]() · [📖 Documentação](#funcionalidades) · [🐛 Reportar Bug](../../issues)
+[🚀 Demo ao Vivo](https://taskflow-nine-zeta.vercel.app) · [📖 Documentação](#funcionalidades) · [🐛 Reportar Bug](../../issues)
 
 </div>
 
 ---
 
 ## 📸 Screenshots
-<img width="1869" height="946" alt="Screenshot 2026-02-18 at 13-02-17 TaskFlow - Gerenciamento de Tarefas" src="https://github.com/user-attachments/assets/5f11600f-a2df-4b7b-a4b2-5a3c4e629755" />
-<img width="1869" height="946" alt="Screenshot 2026-02-18 at 13-02-02 TaskFlow - Gerenciamento de Tarefas" src="https://github.com/user-attachments/assets/a304e09c-0567-4afd-b641-dc8104e7f6cf" />
+<img width="1869" height="946" alt="Screenshot 2026-02-18 at 13-02-02 TaskFlow - Gerenciamento de Tarefas" src="https://github.com/user-attachments/assets/30066999-35bd-43a7-a7a9-43f9b7b69c07" />
+<img width="1869" height="946" alt="Screenshot 2026-02-18 at 13-02-17 TaskFlow - Gerenciamento de Tarefas" src="https://github.com/user-attachments/assets/0983b88b-1bd1-47e9-883d-c52f0343c5d7" />
+<img width="1869" height="946" alt="Screenshot 2026-02-18 at 13-31-37 TaskFlow - Gerenciamento de Tarefas" src="https://github.com/user-attachments/assets/f9953a0c-39cf-438c-84b0-9054ceb67a4f" />
 
 
 ## ✨ Funcionalidades
